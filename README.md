@@ -1,3 +1,3 @@
-# golang-fibonacci-generator
+# golang-fibonacci-generators
 
-Different generator for Fibonacci Numbers written in Golang
+Different generators for Fibonacci Numbers written in Golang. For more information read my corresponding blog entry [Generators in Go](https://blog.haardiek.org/generators-in-go).
